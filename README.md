@@ -6,7 +6,7 @@ I'm a **hardware engineer in training**: I design the mechanics, wire up the ele
 - 🔧 I take products from **SolidWorks CAD and prototyping** through **hardware bring-up and system integration** (Raspberry Pi, Jetson Nano, Arduino, PCB) to **data-driven validation** in Python.
 - 🧪 Thesis: magneto-acoustic imaging simulation. I'm building a coupled acoustic, magnetic, electric and solid-mechanics FEM model in openCFS (in progress) to find the setup that maximizes the received signal for analog front-end design.
 - 🤖 I use AI and automation to make engineering faster:
-  - **Simulation automation**: Python pipelines that run 900+ parallel FEM cases; profiling cut per-case time from 31 to 1.5 min.
+  - **Simulation automation**: Python pipelines that run openCFS cases 6-way in parallel (900+ runs); found 79% of 2D run time was file writing and cut a run from 31 to 1.5 min by trimming field output.
   - **Computer vision on edge devices**: trained a YOLOv8 calf detector and converted it to NCNN for real-time inference on a Raspberry Pi 4; trained a YOLOv7 fruit detector (mAP 98.3%) for a Jetson Nano robot.
   - **Deep learning for medical images and signals**: SAM2-based medical image segmentation, ECG/PPG signal processing and vibration-based motor fault classification.
 - 🎯 Open to 2027 hardware roles in Taiwan: product design, test and validation, and system integration.
