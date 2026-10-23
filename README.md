@@ -45,7 +45,7 @@ Also built (code not public): an autonomous field robot (team leader, Honorable 
 **CAD & prototyping:** SolidWorks · Fusion 360 · Altium Designer · laser cutting · 3D printing<br>
 **Simulation:** openCFS (FEM) · COMSOL · ANSYS Mechanical · SolidWorks Simulation / Flow Simulation<br>
 **Hardware:** Raspberry Pi · NVIDIA Jetson Nano · Arduino · Raspberry Pi Pico · I2C / GPIO · oscilloscope · DC power supply<br>
-**Software:** Python · C/C++ · MATLAB · ROS2 · OpenCV · PyTorch / YOLO · Docker · Git · Linux
+**Software:** Python · C/C++ · MATLAB · OpenCV · PyTorch / YOLO · Docker · Git · Linux
 
 ---
 
