@@ -24,7 +24,7 @@ I'm a **hardware engineer in training**: I design the mechanics, wire up the ele
 <sub>Project leader. 45-part SolidWorks model (IMU, display and ultrasonic mounts, 3D-printed and laser-cut parts); CFD nozzle iteration gave +23% suction.</sub>
 </td>
 <td width="33%" align="center">
-<a href="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board"><img src="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board/raw/main/images/render_3d.png" alt="PPG sensor PCB"></a><br>
+<a href="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board"><img src="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board/raw/main/images/pcb_layout.png" alt="PPG sensor PCB layout"></a><br>
 <b><a href="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board">Wearable PPG Sensor Board</a></b><br>
 <sub>52 mm round 2-layer PCB in Altium: MAX30102 over I2C to a Raspberry Pi Pico, with a full Gerber / ODB++ / STEP package.</sub>
 </td>
