@@ -19,9 +19,9 @@ I'm a **hardware engineer in training**: I design the mechanics, wire up the ele
 <sub>Google Hardware Product Sprint 2023. Team leader and PM; enclosure CAD, laser-cut DXF and a photo-capture / QR-code module on a Raspberry Pi smart mirror.</sub>
 </td>
 <td width="33%" align="center">
-<a href="https://github.com/handsomekk-ntu/vacuum-cleaning-robot-cad"><img src="https://github.com/handsomekk-ntu/vacuum-cleaning-robot-cad/raw/main/images/full_assembly.png" alt="Vacuum robot CAD"></a><br>
+<a href="https://github.com/handsomekk-ntu/vacuum-cleaning-robot-cad"><img src="https://github.com/handsomekk-ntu/vacuum-cleaning-robot-cad/raw/main/images/final_labeled.png" alt="Vacuum robot CAD"></a><br>
 <b><a href="https://github.com/handsomekk-ntu/vacuum-cleaning-robot-cad">Vacuum-Cleaning Robot</a></b><br>
-<sub>Project leader. Full SolidWorks model around the vacuum module; CFD nozzle iteration gave +23% suction and +52% cleaning area.</sub>
+<sub>Project leader. 45-part SolidWorks model (IMU, display and ultrasonic mounts, 3D-printed and laser-cut parts); CFD nozzle iteration gave +23% suction.</sub>
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board"><img src="https://github.com/handsomekk-ntu/wearable-ppg-sensor-board/raw/main/images/render_3d.png" alt="PPG sensor PCB"></a><br>
